@@ -3,5 +3,4 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
-  - aldr
 
