@@ -2,5 +2,8 @@ channels:
   - conda-forge
 dependencies:
   - ipyvolume
-  - appmode
+  - appmode==0.7.0
+  - plotly==4.5.2
+  - xldr==1.2.0
+  - cufflinks
 
