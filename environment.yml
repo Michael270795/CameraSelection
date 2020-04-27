@@ -4,6 +4,4 @@ dependencies:
   - ipyvolume
   - appmode
   - plotly
-  - xldr
-  - cufflinks
 
