@@ -1,10 +1,11 @@
 channels:
   - conda-forge
-  - pypi
 dependencies:
-  - appmode==0.7.0
-  - ipython==7.13.0
-  - ipywidgets==7.5.1
-  - plotly==4.5.2
-  - xlrd==1.2.0
+  - appmode=0.7.0=py36_1002
+  - ipython=7.13.0=py36h5ca1d4c_0
+  - ipywidgets=7.5.1=py_0
+  - plotly=4.5.2=py_0
+  - xlrd=1.2.0=py36_0
+  - pip:
+    - cufflinks==0.17.3
 
